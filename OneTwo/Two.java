@@ -1,4 +1,4 @@
-package hexlet-java.OneTwo;
+package HexletJava.OneTwo;
 
 public class Two {
     public static void greeting() {
